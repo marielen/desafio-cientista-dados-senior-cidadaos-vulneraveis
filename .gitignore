@@ -1,0 +1,17 @@
+# Dados (arquivos grandes)
+data/raw/
+data/processed/
+
+# Instruções internas
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credenciais
+*.json
+.env
+.venv
+data
