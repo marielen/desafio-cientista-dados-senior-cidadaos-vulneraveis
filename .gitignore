@@ -2,9 +2,6 @@
 data/raw/
 data/processed/
 
-# Instruções internas
-CLAUDE.md
-
 # Python
 __pycache__/
 *.pyc
