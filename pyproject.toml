@@ -11,6 +11,12 @@ python = ">=3.11,<3.12"
 pandas = "*"
 ipykernel = "^7.2.0"
 basedosdados = "^2.0.3"
+matplotlib = "*"
+seaborn = "*"
+scipy = "*"
+scikit-learn = "*"
+folium = "*"
+shapely = "^2.1.2"
 
 [build-system]
 requires = ["poetry-core"]
