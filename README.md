@@ -41,6 +41,8 @@ desafio-cientista-dados-senior-cidadaos-vulneraveis/
 │       └── pipeline.py
 ├── data/
 │   └── raw/
+├── results/
+│   └── figures/
 ├── setup_dev.py
 ├── pyproject.toml
 ├── poetry.lock
