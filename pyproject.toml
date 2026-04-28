@@ -17,6 +17,7 @@ scipy = "*"
 scikit-learn = "*"
 folium = "*"
 shapely = "^2.1.2"
+jupyter = "^1.1.1"
 
 [build-system]
 requires = ["poetry-core"]
